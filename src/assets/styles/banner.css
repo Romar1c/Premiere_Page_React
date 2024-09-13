@@ -1,0 +1,17 @@
+.Banniere{
+    color: black;
+    text-align: right;
+    padding-right: 15px;
+    border-bottom: solid 3px black;
+    display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+.Banniere_logo{
+    height: 35px;
+    padding-right: 25px;
+}
+.Banniere_titre{
+    font-size: 32px;
+}
